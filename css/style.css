@@ -942,7 +942,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(107, 107, 102, 0.918);
+  background: rgb(48, 48, 47);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
